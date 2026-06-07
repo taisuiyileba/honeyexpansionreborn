@@ -1,0 +1,10 @@
+{
+    "type":  "minecraft:stonecutting",
+    "ingredient":  {
+                       "item":  "honeyexpansionreborn:honey_bricks"
+                   },
+    "result":  {
+                   "id":  "honeyexpansionreborn:chiseled_honey_bricks"
+               },
+    "count":  1
+}

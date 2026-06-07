@@ -1,0 +1,17 @@
+{
+    "type":  "minecraft:crafting_shaped",
+    "pattern":  [
+                    "H  ",
+                    "HH ",
+                    "HHH"
+                ],
+    "key":  {
+                "H":  {
+                          "item":  "honeyexpansionreborn:honey_bricks"
+                      }
+            },
+    "result":  {
+                   "count":  4,
+                   "id":  "honeyexpansionreborn:honey_brick_stairs"
+               }
+}

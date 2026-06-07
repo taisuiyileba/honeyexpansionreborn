@@ -1,0 +1,25 @@
+{
+    "type":  "minecraft:crafting_shaped",
+    "pattern":  [
+                    "HHH",
+                    "SES",
+                    "WWW"
+                ],
+    "key":  {
+                "H":  {
+                          "item":  "minecraft:honey_bottle"
+                      },
+                "S":  {
+                          "item":  "minecraft:sugar"
+                      },
+                "W":  {
+                          "item":  "minecraft:wheat"
+                      },
+                "E":  {
+                          "tag":  "c:eggs"
+                      }
+            },
+    "result":  {
+                   "id":  "honeyexpansionreborn:honey_cake"
+               }
+}

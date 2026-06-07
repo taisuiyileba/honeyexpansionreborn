@@ -1,0 +1,16 @@
+{
+	"item.honeyexpansionreborn.honey_berries": "Honey Berries",
+	"item.honeyexpansionreborn.slice_of_honey_cake": "Slice of Honey Cake",
+	"item.honeyexpansionreborn.honey_cookie_sausage": "Honey Cookie Sausage",
+	"item.honeyexpansionreborn.pancake": "Pancake",
+	"item.honeyexpansionreborn.honey_pancake": "Honey Pancake",
+	
+	"block.honeyexpansionreborn.honey_cake": "Honey Cake",
+	"block.honeyexpansionreborn.honey_bricks": "Honey Bricks",
+	"block.honeyexpansionreborn.honey_brick_slab": "Honey Brick Slab",
+	"block.honeyexpansionreborn.honey_brick_stairs": "Honey Brick Stairs",
+	"block.honeyexpansionreborn.chiseled_honey_bricks": "Chiseled Honey Bricks",
+	"block.honeyexpansionreborn.honey_brick_wall": "Honey Brick Wall",
+	
+	"itemGroup.honeyexpansionreborn": "Honey Expansion"
+}

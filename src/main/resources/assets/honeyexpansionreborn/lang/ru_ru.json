@@ -1,0 +1,16 @@
+{
+	"item.honeyexpansionreborn.honey_berries": "Медовые ягоды",
+	"item.honeyexpansionreborn.slice_of_honey_cake": "Долька медовика",
+	"item.honeyexpansionreborn.honey_cookie_sausage": "Печенье-колбаска в меду",
+	"item.honeyexpansionreborn.pancake": "Панкейк",
+	"item.honeyexpansionreborn.honey_pancake": "Медовый панкейк",
+	
+	"block.honeyexpansionreborn.honey_cake": "Медовик",
+	"block.honeyexpansionreborn.honey_bricks": "Медовые кирпичи",
+	"block.honeyexpansionreborn.honey_brick_slab": "Плита из медового кирпича",
+	"block.honeyexpansionreborn.honey_brick_stairs": "Ступеньки из медового кирпича",
+	"block.honeyexpansionreborn.chiseled_honey_bricks": "Резные медовые кирпичи",
+	"block.honeyexpansionreborn.honey_brick_wall": "Ограда из медового кирпича",
+	
+	"itemGroup.honeyexpansionreborn": "Honey Expansion"
+}

@@ -1,0 +1,36 @@
+{
+    "type":  "minecraft:crafting_shapeless",
+    "ingredients":  [
+                        {
+                            "item":  "minecraft:honey_bottle"
+                        },
+                        {
+                            "item":  "honeyexpansionreborn:pancake"
+                        },
+                        {
+                            "item":  "honeyexpansionreborn:pancake"
+                        },
+                        {
+                            "item":  "honeyexpansionreborn:pancake"
+                        },
+                        {
+                            "item":  "honeyexpansionreborn:pancake"
+                        },
+                        {
+                            "item":  "honeyexpansionreborn:pancake"
+                        },
+                        {
+                            "item":  "honeyexpansionreborn:pancake"
+                        },
+                        {
+                            "item":  "honeyexpansionreborn:pancake"
+                        },
+                        {
+                            "item":  "honeyexpansionreborn:pancake"
+                        }
+                    ],
+    "result":  {
+                   "count":  8,
+                   "id":  "honeyexpansionreborn:honey_pancake"
+               }
+}

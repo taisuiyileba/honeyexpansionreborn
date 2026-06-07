@@ -1,0 +1,15 @@
+{
+    "type":  "minecraft:crafting_shaped",
+    "pattern":  [
+                    "HHH"
+                ],
+    "key":  {
+                "H":  {
+                          "item":  "honeyexpansionreborn:honey_bricks"
+                      }
+            },
+    "result":  {
+                   "count":  6,
+                   "id":  "honeyexpansionreborn:honey_brick_slab"
+               }
+}

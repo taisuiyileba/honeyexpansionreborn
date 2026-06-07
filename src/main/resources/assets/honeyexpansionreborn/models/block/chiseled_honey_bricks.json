@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "honeyexpansionreborn:block/honey_bricks",
+    "side": "honeyexpansionreborn:block/chiseled_honey_bricks"
+  }
+}
