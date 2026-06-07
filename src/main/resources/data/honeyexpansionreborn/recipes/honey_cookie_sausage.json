@@ -1,0 +1,29 @@
+{
+  "type": "farmersdelight:cooking",
+  "ingredients": [
+    {
+      "item": "farmersdelight:wheat_dough"
+    },
+    {
+      "item": "minecraft:cocoa_beans"
+    },
+    {
+      "item": "minecraft:cocoa_beans"
+    },
+    {
+      "item": "minecraft:sugar"
+    },
+    {
+      "item": "farmersdelight:milk_bottle"
+    },
+    {
+      "item": "minecraft:honey_bottle"
+    }
+  ],
+  "result": {
+    "item": "honeyexpansionreborn:honey_cookie_sausage",
+    "count": 8
+  },
+  "experience": 0.15,
+  "cookingtime": 200
+}

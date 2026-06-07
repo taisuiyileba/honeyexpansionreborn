@@ -1,0 +1,21 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"ingredients": [
+		{
+			"item": "minecraft:honey_bottle"
+		},
+		{
+			"item": "minecraft:sweet_berries"
+		},
+		{
+			"item": "minecraft:sweet_berries"
+		},
+		{
+			"item": "minecraft:sweet_berries"
+		}
+	],
+	"result": {
+		"item": "honeyexpansionreborn:honey_berries",
+		"count": 3
+	}
+}

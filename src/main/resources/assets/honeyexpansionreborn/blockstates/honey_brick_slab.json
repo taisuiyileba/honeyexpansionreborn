@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "honeyexpansionreborn:block/honey_brick_slab"
+    },
+    "type=double": {
+      "model": "honeyexpansionreborn:block/honey_bricks"
+    },
+    "type=top": {
+      "model": "honeyexpansionreborn:block/honey_brick_slab_top"
+    }
+  }
+}

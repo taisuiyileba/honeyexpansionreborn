@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/inner_stairs",
+  "textures": {
+    "bottom": "honeyexpansionreborn:block/honey_bricks",
+    "top": "honeyexpansionreborn:block/honey_bricks",
+    "side": "honeyexpansionreborn:block/honey_bricks"
+  }
+}

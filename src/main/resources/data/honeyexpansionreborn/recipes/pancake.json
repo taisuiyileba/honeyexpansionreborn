@@ -1,0 +1,20 @@
+{
+  "type": "farmersdelight:cooking",
+  "ingredients": [
+    {
+      "item": "minecraft:milk_bucket"
+    },
+    {
+      "item": "minecraft:egg"
+    },
+    {
+      "item": "minecraft:sugar"
+    }
+  ],
+  "result": {
+    "item": "honeyexpansionreborn:pancake",
+    "count": 8
+  },
+  "experience": 0.15,
+  "cookingtime": 250
+}

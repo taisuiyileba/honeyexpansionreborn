@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "honeyexpansionreborn:honey_bricks"
+  },
+  "result": "honeyexpansionreborn:honey_brick_slab",
+  "count": 2
+}

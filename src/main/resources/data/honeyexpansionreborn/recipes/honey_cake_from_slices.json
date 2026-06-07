@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "honeyexpansionreborn:slice_of_honey_cake"
+    },
+    {
+      "item": "honeyexpansionreborn:slice_of_honey_cake"
+    },
+    {
+      "item": "honeyexpansionreborn:slice_of_honey_cake"
+    },
+    {
+      "item": "honeyexpansionreborn:slice_of_honey_cake"
+    },
+    {
+      "item": "honeyexpansionreborn:slice_of_honey_cake"
+    },
+    {
+      "item": "honeyexpansionreborn:slice_of_honey_cake"
+    },
+    {
+      "item": "honeyexpansionreborn:slice_of_honey_cake"
+    }
+  ],
+  "result": {
+    "item": "honeyexpansionreborn:honey_cake"
+  }
+}

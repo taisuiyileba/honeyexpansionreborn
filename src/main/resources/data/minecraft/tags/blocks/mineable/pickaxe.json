@@ -1,0 +1,10 @@
+{
+	"recipes": false,
+	"values": [
+		"honeyexpansionreborn:honey_bricks",
+		"honeyexpansionreborn:honey_brick_slab",
+		"honeyexpansionreborn:honey_brick_stairs",
+		"honeyexpansionreborn:chiseled_honey_bricks",
+		"honeyexpansionreborn:honey_brick_wall"
+	]
+}

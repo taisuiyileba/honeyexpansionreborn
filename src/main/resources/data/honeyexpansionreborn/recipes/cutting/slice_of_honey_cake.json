@@ -1,0 +1,23 @@
+{
+  "type": "farmersdelight:cutting",
+  "ingredients": [
+    {
+      "item": "honeyexpansionreborn:honey_cake"
+    }
+  ],
+  "result": [
+    {
+      "count": 7,
+      "item": "honeyexpansionreborn:slice_of_honey_cake"
+    }
+  ],
+  "tool": [
+    {
+      "type": "farmersdelight:tool_action",
+      "action": "knife_dig"
+    },
+    {
+      "tag": "forge:tools/knives"
+    }
+  ]
+}
